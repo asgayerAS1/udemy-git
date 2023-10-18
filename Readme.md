@@ -1,5 +1,5 @@
-## Udemy-Git Course
+## Udemy - Introduction to Git Course
 ### First Assignment
 
-Name: Alaa Sgayer
-Note: Good Luck
+* Name: Alaa Sgayer
+* Note: Good Luck
